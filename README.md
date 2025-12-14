@@ -1,5 +1,4 @@
 # CSC-1002-Winter-2024
-CSC-1002-Winter-2024
 Acknowledgment
 These assignments are designed with efforts by the professors and TA in CUHK(SZ).
 
